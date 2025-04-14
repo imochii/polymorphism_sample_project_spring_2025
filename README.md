@@ -8,8 +8,8 @@ This program utilizes polymorphism, inheritance relationships, and command-line 
 
 ## Key Concepts
 * Polymorphism: an object-oriented concept that applies when you have at least two objects of the same type where you can call the same method on them, and different things will happen
-* Object-Oriented Programming: "a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated" (https://www.gartner.com/en/information-technology/glossary/oop-object-oriented-programming#:~:text=Object%2Doriented%20programming%20(OOP),inheritance%20of%20attributes%20and%20methods)
-* Inheritance: "a mechanism where you can derive a class from another class for a hierarchy of classes that share a set of attributes and methods" (https://stackify.com/oop-concept-inheritance/)
+* Object-Oriented Programming: "a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated"
+* Inheritance: "a mechanism where you can derive a class from another class for a hierarchy of classes that share a set of attributes and methods"
 
 ## Meet the Monsters
 
@@ -55,3 +55,7 @@ All three classes have been declared and defined in their own header and .cpp fi
 
 * Catherine J. (contributed to CMakeLists.txt, Closet_Monster.cpp, Closet_Monster.h, Darkness_Monster.cpp, Darkness_Monster.h, Darkness_Monster_Main.cpp, Darkness_Monster_Testing.cpp, Under_Bed_Monster.cpp, Under_Bed_Monster.h, Cloud_Monster.cpp, Cloud_Monster.h, Comet_Monster.cpp, Comet_Monster.h, Sky_Monster_Testing.cpp, Lake_Monster.cpp, Lake_Monster.h, Sea_Monster.cpp, Sea_Monster.h, Water_Monster_Main.cpp, Water_Monster_Testing.cpp, Water_Monster.cpp, Water_Monster.h)
 * Lisa D. (contributed to CMakeLists.txt, Closet_Monster.cpp, Closet_Monster.h, Darkness_Monster.cpp, Darkness_Monster.h, Darkness_Monster_Main.cpp, Darkness_Monster_Testing.cpp, Under_Bed_Monster.cpp, Under_Bed_Monster.h, Cloud_Monster.cpp, Cloud_Monster.h, Comet_Monster.cpp, Comet_Monster.h, Sky_Monster_Testing.cpp, Lake_Monster.cpp, Lake_Monster.h, Sea_Monster.cpp, Sea_Monster.h, Water_Monster_Main.cpp, Water_Monster_Testing.cpp, Water_Monster.cpp, Water_Monster.h)
+
+## Sources
+* Object-Oriented definition: https://www.gartner.com/en/information-technology/glossary/oop-object-oriented-programming#:~:text=Object%2Doriented%20programming%20(OOP),inheritance%20of%20attributes%20and%20methods
+* Inheritance definition: https://stackify.com/oop-concept-inheritance/
